@@ -1,0 +1,12 @@
+body{
+    background: rgb(9, 173, 238);
+    color: rgb(5, 5, 15);
+    margin: 15px;
+    font-family: "SUSE", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(97, 32, 0);
+    padding: 25px;
+    font-size: 20px;
+}
